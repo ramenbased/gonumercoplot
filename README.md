@@ -1,2 +1,2 @@
 # gonumercoplot
-plots numerco twitter
+repeatedly plots numerco twitter
